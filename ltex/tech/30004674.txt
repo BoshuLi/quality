@@ -1,0 +1,6 @@
+.NET
+.NET 2.0
+ADO.NET
+C#
+Oracle 10g
+SQL Server 2000

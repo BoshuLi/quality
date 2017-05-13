@@ -1,0 +1,7 @@
+.NET 4.0
+C#
+HTML
+JavaScript
+SQL Server 2008
+Windows Communication Foundation
+Windows Server

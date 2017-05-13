@@ -1,0 +1,7 @@
+AJAX
+Google API
+Hibernate
+Java
+Node.js
+REST
+SQL Server

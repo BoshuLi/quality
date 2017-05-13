@@ -1,0 +1,7 @@
+Android
+Angular.js
+C#
+HTML5
+PhoneGap
+SQL Server
+iOS

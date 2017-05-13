@@ -1,0 +1,13 @@
+IBM DB2
+IBM Rational Application Developer
+IBM Rational Software Architect
+IBM WebSphere Application Server
+J2EE
+Java
+JavaScript
+MySQL
+PHP
+Spring
+Web Services
+XML
+XSL

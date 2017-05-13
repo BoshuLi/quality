@@ -1,0 +1,6 @@
+Node.js
+PostgreSQL
+REST
+Swift
+Xcode
+iOS

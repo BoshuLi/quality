@@ -1,0 +1,7 @@
+JDBC
+JMS
+JSP
+Java Application
+JavaBean
+Spring
+XML

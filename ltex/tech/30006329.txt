@@ -1,0 +1,9 @@
+HTML
+J2EE
+JPA
+JSF
+JSP
+Java Application
+JavaBean
+JavaScript
+Oracle 10g

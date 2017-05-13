@@ -1,0 +1,6 @@
+.NET 2.0
+.NET 3.0
+C#
+Web Services
+Windows Communication Foundation
+XML

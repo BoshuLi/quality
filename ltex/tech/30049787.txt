@@ -1,0 +1,6 @@
+Angular.js
+CSS
+HTML5
+JavaScript
+Twitter Bootstrap
+jQuery

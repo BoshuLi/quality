@@ -1,0 +1,6 @@
+AJAX
+EJB 3
+HTML
+JSF
+Java
+Oracle 10g

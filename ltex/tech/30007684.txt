@@ -1,0 +1,5 @@
+Hibernate
+J2EE
+JBoss Seam
+JPA
+JSF

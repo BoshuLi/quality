@@ -1,0 +1,16 @@
+AJAX
+CSS
+Dojo
+Eclipse Plugin
+HTML
+IBM DB2
+IBM Rational Software Architect
+IBM WebSphere Application Server
+J2EE
+JDBC
+JSP
+Java
+Java Application
+JavaBean
+JavaScript
+Use Case Diagrams (TCUML)

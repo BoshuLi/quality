@@ -1,0 +1,7 @@
+J2EE
+JDBC
+Java
+JavaBean
+Oracle 10g
+Servlet
+Struts

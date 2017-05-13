@@ -1,0 +1,7 @@
+.NET 2.0
+.NET 3.0
+Active Directory
+C#
+SQL Server
+SQL Server 2000
+XML

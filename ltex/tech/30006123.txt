@@ -1,0 +1,4 @@
+.NET 3.5
+Activity Diagrams (TCUML)
+Use Case Diagrams (TCUML)
+Word/Rich Text

@@ -1,0 +1,6 @@
+Angular.js
+CSS
+Google API
+HTML
+HTML5
+JavaScript

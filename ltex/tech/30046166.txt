@@ -1,0 +1,7 @@
+Angular.js
+Bootstrap
+Express
+HTML
+JSON
+JavaScript
+Node.js

@@ -1,0 +1,5 @@
+.NET
+Angular.js
+C#
+Oracle 10g
+SQL Server

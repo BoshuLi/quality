@@ -1,0 +1,8 @@
+AJAX
+EJB 3
+JSON
+JSP
+Java
+SQL
+Servlet
+Struts

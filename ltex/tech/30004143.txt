@@ -1,0 +1,3 @@
+.NET 3.5
+.NET System.Addins
+C#

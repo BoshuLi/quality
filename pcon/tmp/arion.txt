@@ -1,0 +1,33 @@
+(dp0
+S'UI Prototype'
+p1
+(lp2
+S'iversonLv'
+p3
+asS'Specification'
+p4
+(lp5
+S'MiG-29'
+p6
+aS'Kobe24'
+p7
+asS'Test Scenarios'
+p8
+(lp9
+S'winterflame'
+p10
+aS'lxj09'
+p11
+asS'Assembly'
+p12
+(lp13
+S'isv'
+p14
+asS'Architecture'
+p15
+(lp16
+S'BLE'
+p17
+aS'DanLazar'
+p18
+as.

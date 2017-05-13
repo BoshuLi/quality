@@ -1,0 +1,8 @@
+.NET 2.0
+ASP.NET
+Active Directory
+C#
+SQL Server
+Use Case Diagrams (TCUML)
+Web Services
+XML

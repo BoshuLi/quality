@@ -1,0 +1,4 @@
+EJB 3
+JPA
+Java
+JavaBean

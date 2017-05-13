@@ -1,0 +1,5 @@
+.NET 3.5
+SQL Server
+Web Services
+Windows Communication Foundation
+XML

@@ -1,0 +1,5 @@
+Android 2.2
+C++
+HTML
+Java
+JavaScript

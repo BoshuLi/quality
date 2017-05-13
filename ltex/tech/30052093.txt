@@ -1,0 +1,7 @@
+Angular.js
+Bootstrap
+CSS
+Google API
+JSON
+JavaScript
+jQuery

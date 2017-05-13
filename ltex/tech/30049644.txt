@@ -1,0 +1,6 @@
+Angular.js
+CSS
+HTML
+JavaScript
+MySQL
+PHP

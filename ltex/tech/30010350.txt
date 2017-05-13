@@ -1,0 +1,9 @@
+AJAX
+CSS
+HTML
+HTTP
+J2EE
+JSP
+Java
+Servlet
+Struts

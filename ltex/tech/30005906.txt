@@ -1,0 +1,20 @@
+AJAX
+Active Directory
+Activity Diagrams (TCUML)
+CSS
+EJB
+HTML
+J2EE
+JBoss Seam
+JPA
+JSF
+JUnit
+Java
+JavaScript
+LDAP
+Oracle 10g
+Servlet
+UML
+Use Case Diagrams (TCUML)
+Web Services
+XML

@@ -1,0 +1,5 @@
+.NET 3.5
+C#
+MySQL
+SQL Server 2008
+SSIS

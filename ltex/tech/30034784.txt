@@ -1,0 +1,5 @@
+EJB
+Hibernate
+Java
+PostgreSQL
+Spring

@@ -1,0 +1,4 @@
+.NET 3.5
+C#
+SQL Server
+Windows Communication Foundation

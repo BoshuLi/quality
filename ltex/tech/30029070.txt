@@ -1,0 +1,5 @@
+.NET 4.0
+C#
+IIS
+SQL Server 2008
+Windows Communication Foundation

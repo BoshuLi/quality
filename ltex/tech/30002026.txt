@@ -1,0 +1,5 @@
+.NET
+.NET 2.0
+ADO.NET
+C#
+Windows Workflow Foundation

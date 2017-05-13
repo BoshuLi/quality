@@ -1,0 +1,4 @@
+EJB 3
+IBM WebSphere Application Server
+JPA
+Spring

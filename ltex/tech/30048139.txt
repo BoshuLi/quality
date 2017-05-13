@@ -1,0 +1,4 @@
+JSP
+JavaScript
+Struts
+jQuery

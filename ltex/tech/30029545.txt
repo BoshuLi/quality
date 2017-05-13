@@ -1,0 +1,5 @@
+HTML5
+HTTP
+JavaScript
+iOS 4.0
+iOS 5.0

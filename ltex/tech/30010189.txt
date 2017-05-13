@@ -1,0 +1,13 @@
+AJAX
+HTML
+IBM DB2
+IBM Rational Application Developer
+IBM Rational Software Architect
+IBM WebSphere Application Server
+J2EE
+JDBC
+JSP
+Java
+PL/SQL
+Servlet
+UML

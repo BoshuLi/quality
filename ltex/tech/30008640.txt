@@ -1,0 +1,6 @@
+Hibernate
+J2EE
+JPA
+Oracle 10g
+Spring
+Struts

@@ -1,0 +1,6 @@
+EJB 3
+Hibernate
+J2EE
+JPA
+Java
+MySQL

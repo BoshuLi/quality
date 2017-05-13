@@ -1,0 +1,4 @@
+Hibernate
+Java
+Oracle 10g
+Spring

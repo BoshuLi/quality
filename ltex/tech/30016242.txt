@@ -1,0 +1,4 @@
+.NET 3.5
+C#
+SQL Server 2008
+Windows Server

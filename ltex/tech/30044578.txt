@@ -1,0 +1,6 @@
+Android
+Angular.js
+HTML5
+JavaScript
+PhoneGap
+iOS

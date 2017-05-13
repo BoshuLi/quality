@@ -1,0 +1,6 @@
+JDBC
+JSP
+Java
+JavaScript
+SQL
+Struts

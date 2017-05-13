@@ -1,0 +1,7 @@
+EJB 3
+J2EE
+JDBC
+JSF
+JSP
+Java
+Oracle 10g

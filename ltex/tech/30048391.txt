@@ -1,0 +1,5 @@
+Angular.js
+Express
+MongoDB
+Node.js
+PhoneGap

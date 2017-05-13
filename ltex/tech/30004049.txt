@@ -1,0 +1,5 @@
+.NET 3.0
+C#
+SQL Server
+WPF
+Web Services

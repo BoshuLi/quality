@@ -1,0 +1,5 @@
+.NET 2.0
+.NET 3.0
+Activity Diagrams (TCUML)
+Use Case Diagrams (TCUML)
+Word/Rich Text

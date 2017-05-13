@@ -1,0 +1,4 @@
+EJB 3
+Hibernate
+JBoss Seam
+JSF

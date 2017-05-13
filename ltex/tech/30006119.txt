@@ -1,0 +1,5 @@
+.NET 3.5
+C#
+SQL Server
+Use Case Diagrams (TCUML)
+Word/Rich Text

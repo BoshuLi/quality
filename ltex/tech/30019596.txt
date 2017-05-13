@@ -1,0 +1,3 @@
+Oracle 10g
+PL/SQL
+SQL

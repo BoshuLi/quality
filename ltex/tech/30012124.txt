@@ -1,0 +1,6 @@
+Hibernate
+IBM WebSphere MQ
+JUnit
+Java
+Spring
+XML

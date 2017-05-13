@@ -1,0 +1,6 @@
+.NET
+.NET 2.0
+C#
+HTTP
+SQL Server
+SQL Server 2000

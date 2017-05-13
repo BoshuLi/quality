@@ -1,0 +1,6 @@
+.NET
+.NET 3.0
+.NET 3.5
+C#
+PL/SQL
+Windows Communication Foundation

@@ -1,0 +1,8 @@
+EJB
+JQuery
+JSON
+JSP
+Java
+JavaScript
+Spring
+Struts

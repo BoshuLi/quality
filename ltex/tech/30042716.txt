@@ -1,0 +1,8 @@
+AJAX
+CSS
+HTML5
+JavaScript
+MySQL
+PHP
+Twitter Bootstrap
+jQuery

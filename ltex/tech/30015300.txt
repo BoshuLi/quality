@@ -1,0 +1,8 @@
+AJAX
+HTML
+J2EE
+JSP
+Java
+JavaScript
+Oracle 10g
+Struts

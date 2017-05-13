@@ -1,0 +1,7 @@
+Hibernate
+JPA
+Java
+Oracle 10g
+REST
+Spring
+Web Services

@@ -1,0 +1,8 @@
+Android 2.2
+C
+C++
+HTML5
+HTTP
+Java
+JavaScript
+Objective C

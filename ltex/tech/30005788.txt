@@ -1,0 +1,5 @@
+EJB 3
+Hibernate
+JSP
+MySQL
+Spring

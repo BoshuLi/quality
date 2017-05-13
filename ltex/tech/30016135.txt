@@ -1,0 +1,6 @@
+AJAX
+CSS
+HTML
+Java
+Oracle 10g
+Struts

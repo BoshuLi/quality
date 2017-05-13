@@ -1,0 +1,4 @@
+JPA
+Java
+MySQL
+Spring

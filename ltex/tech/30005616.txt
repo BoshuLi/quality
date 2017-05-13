@@ -1,0 +1,6 @@
+J2EE
+JBoss Seam
+JMS
+JPA
+Java
+Java Application

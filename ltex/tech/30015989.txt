@@ -1,0 +1,5 @@
+.NET 3.5
+HTML
+SQL Server 2008
+Windows Communication Foundation
+Windows Server

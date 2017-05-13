@@ -1,0 +1,8 @@
+HTML
+HTTP
+JavaScript
+Objective C
+PhoneGap
+Sencha Touch 2
+iOS 5.0
+iOS 6.0

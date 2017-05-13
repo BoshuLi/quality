@@ -1,0 +1,5 @@
+AJAX
+J2EE
+JSON
+Oracle 10g
+Struts

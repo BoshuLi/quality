@@ -1,0 +1,6 @@
+.NET
+.NET 3.0
+ADO.NET
+C#
+Oracle 10g
+Windows Communication Foundation

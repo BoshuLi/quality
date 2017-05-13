@@ -1,0 +1,7 @@
+IBM DB2
+IBM Rational Application Developer
+IBM WebSphere Application Server
+J2EE
+SQL
+Web Services
+XML

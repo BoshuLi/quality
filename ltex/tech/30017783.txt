@@ -1,0 +1,7 @@
+AJAX
+HTML
+JSP
+Java
+JavaScript
+SQL
+Struts

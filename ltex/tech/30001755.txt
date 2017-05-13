@@ -1,0 +1,4 @@
+.NET 2.0
+Remoting
+Web Services
+Windows Server 2003

@@ -1,0 +1,5 @@
+Hibernate
+JPA
+Java
+Spring
+Struts

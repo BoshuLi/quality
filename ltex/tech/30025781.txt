@@ -1,0 +1,6 @@
+.NET 3.5
+ASP.NET
+C#
+IBM DB2
+SQL Server 2008
+SSIS

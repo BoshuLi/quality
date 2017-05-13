@@ -1,0 +1,4 @@
+AJAX
+Java
+SQL
+Struts

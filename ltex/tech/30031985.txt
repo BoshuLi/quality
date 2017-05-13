@@ -1,0 +1,6 @@
+.NET 4.0
+C#
+Oracle 10g
+SQL
+SQL Server 2008
+Windows Communication Foundation

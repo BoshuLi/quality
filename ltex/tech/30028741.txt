@@ -1,0 +1,9 @@
+Android 2.1
+Android 2.2
+Blackberry SDK
+HTML5
+JavaScript
+Other
+PhoneGap
+iOS 4.0
+iOS 5.0

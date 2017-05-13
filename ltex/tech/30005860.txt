@@ -1,0 +1,8 @@
+.NET 3.5
+ASP.NET
+C#
+IIS
+SQL Server
+Use Case Diagrams (TCUML)
+Web Services
+Windows Communication Foundation

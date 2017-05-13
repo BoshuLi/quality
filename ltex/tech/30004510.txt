@@ -1,0 +1,4 @@
+.NET
+.NET 3.5
+C#
+Windows Communication Foundation

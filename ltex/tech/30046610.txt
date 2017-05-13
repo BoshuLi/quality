@@ -1,0 +1,8 @@
+Angular.js
+Bootstrap
+Express
+HTML
+JavaScript
+MongoDB
+Node.js
+jQuery

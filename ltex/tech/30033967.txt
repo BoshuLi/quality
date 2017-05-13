@@ -1,0 +1,8 @@
+C
+C++
+HTML
+HTTP
+JavaScript
+Objective C
+PhoneGap
+Sencha Touch 2

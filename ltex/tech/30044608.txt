@@ -1,0 +1,8 @@
+AJAX
+JQuery
+JSP
+Java
+JavaScript
+PostgreSQL
+SQL
+Spring

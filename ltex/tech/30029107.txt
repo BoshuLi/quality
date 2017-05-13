@@ -1,0 +1,7 @@
+HTML5
+HTTP
+JavaScript
+Objective C
+iOS 4.0
+iOS 5.0
+iOS 6.0

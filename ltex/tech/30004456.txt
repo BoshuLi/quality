@@ -1,0 +1,7 @@
+.NET
+.NET 3.5
+.NET System.Addins
+ASP.NET
+ASP.NET AJAX
+C#
+XML

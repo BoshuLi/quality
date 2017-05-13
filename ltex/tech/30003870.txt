@@ -1,0 +1,4 @@
+.NET 3.5
+.NET System.Addins
+C#
+Windows Communication Foundation

@@ -1,0 +1,7 @@
+AJAX
+EJB 3
+Java
+JavaScript
+Spring
+Struts
+XML

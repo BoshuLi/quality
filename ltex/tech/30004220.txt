@@ -1,0 +1,8 @@
+.NET
+.NET 2.0
+.NET 3.0
+ADO.NET
+ASP.NET
+C#
+Oracle 10g
+Web Services

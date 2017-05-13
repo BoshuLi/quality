@@ -1,0 +1,5 @@
+.NET 3.5
+.NET 4.0
+C#
+WPF
+Word/Rich Text

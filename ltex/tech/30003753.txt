@@ -1,0 +1,6 @@
+.NET
+.NET 2.0
+.NET 3.0
+C#
+ClickOnce
+Windows Communication Foundation

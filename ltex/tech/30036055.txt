@@ -1,0 +1,2 @@
+PhoneGap
+iOS 6.0

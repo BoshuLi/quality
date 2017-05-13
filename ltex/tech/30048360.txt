@@ -1,0 +1,6 @@
+IBM WebSphere Application Server
+JMS
+JPA
+Java
+Oracle 10g
+PostgreSQL

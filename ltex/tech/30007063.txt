@@ -1,0 +1,5 @@
+.NET 3.0
+.NET 3.5
+.NET System.Addins
+Web Services
+XML

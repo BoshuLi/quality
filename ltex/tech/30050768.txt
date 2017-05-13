@@ -1,0 +1,6 @@
+Angular.js
+HTML
+JavaScript
+Node.js
+Oracle 10g
+SQL Server

@@ -1,0 +1,3 @@
+.NET 3.5
+Windows Communication Foundation
+Windows Server 2003

@@ -1,0 +1,7 @@
+EJB 3
+Hibernate
+J2EE
+Java
+JavaScript
+Oracle 9i
+Spring

@@ -1,0 +1,8 @@
+EJB 3
+J2EE
+JBoss Seam
+JMS
+JPA
+JSF
+Java
+Oracle 10g

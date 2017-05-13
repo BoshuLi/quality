@@ -1,0 +1,3 @@
+.NET 3.5
+Commerce Server 2009
+Windows Server

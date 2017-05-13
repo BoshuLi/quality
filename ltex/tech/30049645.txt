@@ -1,0 +1,8 @@
+Angular.js
+CSS
+Express
+Google API
+HTML
+JavaScript
+MongoDB
+Node.js

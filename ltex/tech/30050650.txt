@@ -1,0 +1,7 @@
+Angular.js
+HTML5
+Java Application
+JavaScript
+Oracle 10g
+REST
+Spring

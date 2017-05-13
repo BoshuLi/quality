@@ -1,0 +1,6 @@
+Angular.js
+CSS
+HTML
+JSON
+JavaScript
+jQuery

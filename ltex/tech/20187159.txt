@@ -1,0 +1,4 @@
+J2ME
+Java
+MIDP 2.0
+XML

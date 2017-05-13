@@ -1,0 +1,7 @@
+EJB
+JSON
+JSP
+Java
+JavaScript
+Servlet
+Struts

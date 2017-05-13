@@ -1,0 +1,5 @@
+.NET
+.NET 2.0
+.NET 3.0
+C#
+Windows Communication Foundation

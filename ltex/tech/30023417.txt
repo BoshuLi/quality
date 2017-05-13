@@ -1,0 +1,9 @@
+EJB 3
+Hibernate
+JSON
+JSP
+Java
+JavaScript
+Servlet
+Spring
+Struts

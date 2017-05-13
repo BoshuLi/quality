@@ -1,0 +1,7 @@
+.NET
+.NET 2.0
+C#
+HTTP
+IIS
+SQL Server
+Servlet

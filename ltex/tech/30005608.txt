@@ -1,0 +1,5 @@
+EJB 3
+J2EE
+JBoss Seam
+JSF
+Java

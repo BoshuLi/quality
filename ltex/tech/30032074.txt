@@ -1,0 +1,6 @@
+AJAX
+CSS
+HTML
+Java
+JavaScript
+Struts

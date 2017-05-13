@@ -1,0 +1,7 @@
+AJAX
+JSF
+JSON
+JSP
+Java
+JavaScript
+PostgreSQL

@@ -1,0 +1,8 @@
+CSS
+EJB 3
+HTML
+JSON
+JSP
+JavaScript
+Servlet
+Struts

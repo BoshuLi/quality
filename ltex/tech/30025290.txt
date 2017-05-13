@@ -1,0 +1,5 @@
+AJAX
+Hibernate
+J2EE
+SQL
+Struts

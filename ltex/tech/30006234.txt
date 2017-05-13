@@ -1,0 +1,12 @@
+AJAX
+EJB
+EJB 3
+HTML
+J2EE
+JPA
+JSF
+JSP
+Java
+JavaBean
+JavaScript
+Oracle 10g

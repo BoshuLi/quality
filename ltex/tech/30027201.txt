@@ -1,0 +1,5 @@
+Android 2.2
+CSS
+HTML
+JavaScript
+iOS 5.0

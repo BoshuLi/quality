@@ -1,0 +1,4 @@
+.NET
+.NET 2.0
+ADO.NET
+Oracle 10g

@@ -1,0 +1,5 @@
+JPA
+JSON
+Java
+MySQL
+Web Services

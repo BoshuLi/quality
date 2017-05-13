@@ -1,0 +1,7 @@
+.NET
+.NET 3.5
+.NET System.Addins
+ADO.NET
+C#
+SQL Server 2000
+XML

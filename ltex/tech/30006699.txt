@@ -1,0 +1,11 @@
+AJAX
+CSS
+EJB 3
+Hibernate
+J2EE
+JBoss Seam
+JPA
+JSF
+Java
+Oracle 10g
+XML

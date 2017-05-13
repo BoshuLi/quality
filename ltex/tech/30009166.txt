@@ -1,0 +1,6 @@
+.NET 3.5
+ASP.NET Web Parts
+Commerce Server 2009
+SQL Server 2008
+Sharepoint 3.0
+Windows Server

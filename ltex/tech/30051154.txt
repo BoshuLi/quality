@@ -1,0 +1,6 @@
+Angular.js
+CSS
+HTML5
+Hibernate
+Java
+PostgreSQL

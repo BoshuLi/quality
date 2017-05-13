@@ -1,0 +1,8 @@
+Angular.js
+CSS
+HTML5
+JQuery
+JavaScript
+MongoDB
+Node.js
+REST

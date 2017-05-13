@@ -1,0 +1,6 @@
+HTTP
+JSP
+Java
+JavaScript
+Servlet
+Struts

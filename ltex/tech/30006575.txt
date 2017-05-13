@@ -1,0 +1,7 @@
+AJAX
+EJB 3
+J2EE
+JBoss Seam
+JPA
+JSF
+Oracle 10g

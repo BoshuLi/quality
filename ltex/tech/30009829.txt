@@ -1,0 +1,6 @@
+.NET 3.5
+C#
+SQL Server 2008
+Windows Communication Foundation
+Windows Server
+Windows Server 2003

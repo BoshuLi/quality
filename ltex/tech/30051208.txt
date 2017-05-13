@@ -1,0 +1,6 @@
+Android
+HTML5
+JavaScript
+Node.js
+REST
+iOS

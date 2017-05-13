@@ -1,0 +1,6 @@
+EJB 3
+IBM DB2
+IBM WebSphere Application Server
+JPA
+JavaScript
+Struts

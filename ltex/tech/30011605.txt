@@ -1,0 +1,6 @@
+.NET 3.5
+AJAX
+ASP.NET
+C#
+SQL Server
+Windows Communication Foundation

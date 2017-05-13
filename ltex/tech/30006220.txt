@@ -1,0 +1,6 @@
+.NET 2.0
+.NET 3.0
+.NET 3.5
+ADO.NET
+ASP.NET
+C#

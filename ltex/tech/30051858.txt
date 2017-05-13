@@ -1,0 +1,8 @@
+Angular.js
+Bootstrap
+CSS
+HTML
+HTML5
+JSON
+JavaScript
+jQuery

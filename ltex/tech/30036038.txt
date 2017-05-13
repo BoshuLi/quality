@@ -1,0 +1,6 @@
+AJAX
+JSON
+JSP
+Java
+Servlet
+Struts

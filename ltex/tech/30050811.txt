@@ -1,0 +1,6 @@
+Angular.js
+HTML5
+Java
+JavaScript
+Oracle 10g
+PostgreSQL

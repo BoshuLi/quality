@@ -1,0 +1,2 @@
+JBoss Seam
+Word/Rich Text

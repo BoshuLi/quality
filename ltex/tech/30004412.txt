@@ -1,0 +1,7 @@
+.NET 3.5
+.NET System.Addins
+ASP.NET
+C#
+HTML
+HTTP
+Windows Communication Foundation

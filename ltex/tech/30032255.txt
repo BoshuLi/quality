@@ -1,0 +1,4 @@
+.NET 4.0
+ADO.NET
+ASP.NET
+Windows Communication Foundation

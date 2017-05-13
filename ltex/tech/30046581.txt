@@ -1,0 +1,6 @@
+AJAX
+Angular.js
+Bootstrap
+HTML
+JavaScript
+jQuery

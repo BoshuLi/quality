@@ -1,0 +1,7 @@
+Angular.js
+CSS
+HTML
+JavaScript
+Node.js
+PostgreSQL
+jQuery

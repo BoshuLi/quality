@@ -1,0 +1,8 @@
+EJB 3
+HTML
+J2EE
+JPA
+JSON
+Spring
+Struts
+Web Services

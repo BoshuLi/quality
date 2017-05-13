@@ -1,0 +1,7 @@
+AJAX
+J2EE
+JDBC
+JSON
+Java
+JavaBean
+JavaScript

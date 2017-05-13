@@ -1,0 +1,6 @@
+Angular.js
+CSS
+Express
+HTML
+Node.js
+PostgreSQL

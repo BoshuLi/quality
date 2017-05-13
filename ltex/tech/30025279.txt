@@ -1,0 +1,5 @@
+Hibernate
+JSON
+JSP
+Java
+Oracle 10g

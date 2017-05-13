@@ -1,0 +1,5 @@
+.NET 4.0
+ASP.NET
+Active Directory
+C#
+Oracle 10g

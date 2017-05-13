@@ -1,0 +1,6 @@
+EJB 3
+J2EE
+JPA
+Java
+Oracle 10g
+Web Services

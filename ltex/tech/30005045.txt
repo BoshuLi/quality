@@ -1,0 +1,8 @@
+.NET
+.NET 2.0
+.NET 3.0
+ADO.NET
+C#
+IIS
+SQL Server
+Windows Communication Foundation

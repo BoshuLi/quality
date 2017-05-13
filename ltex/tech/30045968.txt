@@ -1,0 +1,6 @@
+AJAX
+Angular.js
+CSS
+HTML5
+JQuery
+JSON

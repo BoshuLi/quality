@@ -1,0 +1,7 @@
+CSS
+HTML
+JQuery
+JavaScript
+MySQL
+Ruby
+Ruby on Rails

@@ -1,0 +1,6 @@
+EJB 3
+Hibernate
+JSP
+Java
+Spring
+Struts

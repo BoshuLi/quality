@@ -1,0 +1,6 @@
+CSS
+HTML
+Java
+JavaScript
+SQL
+Struts

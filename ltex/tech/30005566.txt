@@ -1,0 +1,3 @@
+JBoss Seam
+JPA
+Oracle 10g

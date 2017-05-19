@@ -4,7 +4,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 #open the excel file
-Filename="D:\\code\\alltest.xlsx"
+Filename="D:\\code\\quality\\difficulty.xls"
 bk=xlrd.open_workbook(Filename)
  
 #get the sheets number
@@ -24,13 +24,13 @@ ncols=sh.ncols
 print "line:%d  col:%d" %(nrows,ncols)
 
 columnnum=0
-titlenum=1
+titlenum=2
 # input the searching string and column
 
 	#find the rows which you want to select and write to a txt file
 
 def buildNew(testin):	
-	outputfilename='D:\\code\\'+testin + '.xls'
+	outputfilename='D:\\code\\quality\\contest1\\'+testin + '.xls'
 	outputfile=xlwt.Workbook()
 	sheet1 = outputfile.add_sheet('sheet1', cell_overwrite_ok=True)
 	count = 0
@@ -48,7 +48,7 @@ def buildNew(testin):
 	outputfile.save(outputfilename)
 
 
-checkfile=open('D:\\code\\projectKey.txt','r')
+checkfile=open('D:\\code\\quality\\projectKey.txt','r')
 testin=checkfile.readline().strip('\n')
 while(testin):
 	buildNew(testin)
